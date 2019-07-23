@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) {
         IntCheck aB = new ImplCheck();
         IntCheck aC = new ExtCheck();
-        //test;
+        //test   ;
         System.out.println(aC.sum(1,1));
     }
 }
